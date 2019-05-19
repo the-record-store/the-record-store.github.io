@@ -1,0 +1,10 @@
+.g-ytsubscribe {
+  display: inline-block;
+  width: 25em;
+}
+html {
+  font-family: 'Arvo', serif;
+}
+#link-buttons-wrapper {
+  text-align: center;
+}
