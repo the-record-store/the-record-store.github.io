@@ -26,10 +26,12 @@ h1, h2 {
   text-align: center;
   font-family: 'Kaushan Script', cursive;
 }
-#link-buttons-wrapper {
+.linkwrapper {
   text-align: center;
   vertical-align: middle;
   font-size: 0px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 #discord-button, #___ytsubscribe_0 {
   text-align: center !important;
@@ -37,9 +39,6 @@ h1, h2 {
   margin-right: auto;
   vertical-align: middle !important;
   display: block;
-}
-#discord-button {
-  margin-top: 0.5em;
 }
 #sidebar {
   flex: 1 15em;
