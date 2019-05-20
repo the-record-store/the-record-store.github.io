@@ -38,6 +38,9 @@ h1, h2 {
   vertical-align: middle !important;
   display: block;
 }
+#discord-button {
+  margin-top: 0.5em;
+}
 #sidebar {
   flex: 1 15em;
   background-color: #ffff99;
