@@ -17,7 +17,7 @@ h1, h2 {
   vertical-align: middle;
   font-size: 0px;
 }
-#link-buttons-wrapper > div, #link-buttons-wrapper > * > img {
+#discord-button, #___ytsubscribe_0 {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: middle !important;
 }
