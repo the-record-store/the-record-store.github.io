@@ -16,7 +16,7 @@ html {
 }
 @media all and (max-width: 30em) {
   #outerwrap {
-    flex-flow: column nowrap;
+    flex-flow: column no;
   }
 }
 #innerwrap {
@@ -26,18 +26,16 @@ h1, h2 {
   text-align: center;
   font-family: 'Kaushan Script', cursive;
 }
-.link-block {
-  display: block !important;
+#link-buttons-wrapper {
   text-align: center;
   vertical-align: middle;
   font-size: 0px;
 }
 #discord-button, #___ytsubscribe_0 {
-  display: inline-block;
   vertical-align: middle !important;
 }
 #sidebar {
-  flex: 1 20em;
+  flex: 1 15em;
   background-color: #ffff99;
   color: black;
   border: 1px solid black;
