@@ -1,6 +1,6 @@
-.g-ytsubscribe {
-  display: inline-block;
-  width: 25em;
+#yt-subscribe {
+  vertical-align: middle;
+  max-width: 25em;
 }
 html {
   background: #432920 url(background.jpg) repeat;
@@ -13,8 +13,8 @@ h1, h2 {
 }
 #link-buttons-wrapper {
   text-align: center;
+  vertical-align: middle;
 }
 #link-buttons-wrapper > * {
   display: inline-block;
-  vertical-align: center;
 }
