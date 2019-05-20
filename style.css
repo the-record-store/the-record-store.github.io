@@ -3,7 +3,7 @@
   width: 25em;
 }
 html {
-  background-color: #432920;
+  background: #432920 url(background.jpg) repeat;
   font-family: 'Arvo', serif;
   color: white;
 }
