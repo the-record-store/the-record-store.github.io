@@ -8,6 +8,12 @@ html {
   color: white;
   font-size: 12pt;
 }
+#outerwrap {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  align-content: flex-start;
+}
 h1, h2 {
   text-align: center;
   font-family: 'Kaushan Script', cursive;
@@ -20,4 +26,12 @@ h1, h2 {
 #discord-button, #___ytsubscribe_0 {
   display: inline-block;
   vertical-align: middle !important;
+}
+#sidebar {
+  float: left;
+  width: 20em;
+  background-color: #ffff99;
+  color: black;
+  border: 1px solid black;
+  margin: 0.5em;
 }
