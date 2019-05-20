@@ -12,6 +12,7 @@ h1, h2 {
   font-family: 'Kaushan Script', cursive;
 }
 #link-buttons-wrapper {
+  vertical-align: center;
   text-align: center;
 }
 #link-buttons-wrapper > a {
